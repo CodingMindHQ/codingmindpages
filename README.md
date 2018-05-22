@@ -1,5 +1,5 @@
 # CodingMind Website  
-####A Single Page Application  
+A Single Page Application  
 The main file is **index-beath.html**  
 Add the resource files *css,js,modified,images*  
 Run **index-beath.html** to get the website!  
